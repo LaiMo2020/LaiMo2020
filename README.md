@@ -18,8 +18,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LaiMo2020&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaiMo2020&theme=tokyonight)
 <p align="left"> 
-    <img width="500" height="250" src="https://github-readme-stats.vercel.app/api?username=LaiMo2020&theme=tokyonight">
-</p><p align="left"> 
+    <img width="500" height="250" src="https://github-readme-stats.vercel.app/api?username=LaiMo2020&theme=tokyonight"></p><p align="right"> 
     <img width="500" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiMo2020&theme=tokyonight">
 </p>
 
