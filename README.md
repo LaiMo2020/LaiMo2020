@@ -4,7 +4,8 @@
   <br>
  Hello there, I'm Laith 👋
 </p>
-
+![](https://visitor-badge.laobi.icu/badge?page_id=LaiMo2020.LaiMo2020)
+[![Github](https://img.shields.io/github/followers/LaiMo2020?label=Follow&style=social)](https://github.com/LaiMo2020)
 
 #### I am a junior Full Stack Developer, I love dynamic challenges & learning new technology
 - 🔭 I’m currently collaborate on open source repo for Django
