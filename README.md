@@ -8,7 +8,6 @@
 
 
 ##### I am a junior Full Stack Developer, I love dynamic challenges & learning new technology
-- 
 - 🔭 I’m currently collaborate on open source repo for Django
 - 🌱 I’m currently learning Node JS
 - 🔥 Fan of old stratigic games Commandos & Red Alert 
