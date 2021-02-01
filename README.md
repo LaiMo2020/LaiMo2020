@@ -15,9 +15,8 @@
 - 🔥 Fan of old stratigic games Commandos & Red Alert 
 - ⚽ FIFA 2021
 <hr>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LaiMo2020&show_icons=true&theme=tokyonight)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LaiMo2020)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaiMo2020&theme=tokyonight)
 
 ### Languages I Know
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaiMo2020&theme=tokyonight)
