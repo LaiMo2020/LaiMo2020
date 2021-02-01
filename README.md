@@ -9,7 +9,7 @@
 [![Github](https://img.shields.io/github/followers/LaiMo2020?label=Follow&style=social)](https://github.com/LaiMo2020)
 
 
-##### I am a junior Full Stack Developer, I love dynamic challenges & learning new technology
+#### I am a junior Full Stack Developer, I love dynamic challenges & learning new technology
 - 🔭 I’m currently collaborate on open source repo for Django
 - 🌱 I’m currently learning Node JS
 - 🔥 Fan of old stratigic games Commandos & Red Alert 
