@@ -1,13 +1,13 @@
- ![Header](readme-images/hello.png "Header")<br>
+ ![Header](https://media2.giphy.com/media/IRQBDU7x2LZUQ/giphy.gif?cid=ecf05e47r548g0ebbv9akpkim0fyqobl0phc499ocqxktymw&rid=giphy.gif "Header")<br>
                                      I'm Laith 👋
 
 <hr>
-### Hi there 
+
 
 
 I am a junior Full Stack Developer
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently collaborate on open source repo for Django
 - 🌱 I’m currently learning Node JS
