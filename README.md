@@ -8,9 +8,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=LaiMo2020.LaiMo2020)
 ![Github](https://img.shields.io/github/followers/LaiMo2020?label=Follow&style=social)
 #### I am a junior Full Stack Developer, I love dynamic challenges & learning new technology
-- 🔭 I’m currently collaborate on open source repo for Django
-- 🌱 I’m currently learning React
-- 🔥 Fan of old stratigic games Commandos & Red Alert 
+- 🔭 Developing own project ideas
+- 🌱 I’m currently learning Node.js
+- 🔥 Fan of old strategic games Commandos & Red Alert 
 - ⚽ FIFA 2021
 <hr>
 
