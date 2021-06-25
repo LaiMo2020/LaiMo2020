@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="https://media2.giphy.com/media/IRQBDU7x2LZUQ/giphy.gif?cid=ecf05e47r548g0ebbv9akpkim0fyqobl0phc499ocqxktymw&rid=giphy.gif">
+  <img width="460" height="300" src="https://media.giphy.com/media/Nw8z2olm0nGHC/source.gif">
   <br>
  Hello there, I'm Laith 👋
 </p>
