@@ -9,7 +9,7 @@
 ![Github](https://img.shields.io/github/followers/LaiMo2020?label=Follow&style=social)
 #### I am a junior Full Stack Developer, I love dynamic challenges & learning new technology
 - 🔭 Developing own project ideas
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.JS
 - 🔥 Fan of old strategic games Commandos & Red Alert 
 - ⚽ FIFA 2021
 <hr>
