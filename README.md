@@ -1,23 +1,15 @@
-
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 <p align="center">
-  <img width="460" height="300" src="https://media3.giphy.com/media/yUTmg5PbrRLXi/giphy.gif?cid=ecf05e470py3tzwookcd6wocql5k1o72wfumzhnzirrgcgek&rid=giphy.gif&ct=g">
-  
+  <img src="https://media.giphy.com/media/8c4zSICCI2BTDHco2j/giphy.gif" width="480" height="320">
   <br>
- <h2>Hello there, I'm Laith 👋<h2>
+  <h2>Hello there, I'm Laith 👋</h2>
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=LaiMo2020.LaiMo2020)
-![Github](https://img.shields.io/github/followers/LaiMo2020?label=Follow&style=social)
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 #### I am a junior Full Stack Developer, I love dynamic challenges & learning new technology
 - 🔭 Developing own project ideas 
 - 🔥 Fan of old strategic games Commandos & Red Alert 
 - ⚽ FIFA 2021
 <hr>
-
-
-<p align="center"> 
-    <img width="500" height="250" src="https://github-readme-stats.vercel.app/api?username=LaiMo2020&theme=tokyonight"></p><p align="center"> 
-    <img width="500" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiMo2020&theme=tokyonight">
-</p>
 
 
