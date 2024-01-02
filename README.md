@@ -7,9 +7,8 @@
 
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 #### I am a junior Full Stack Developer, I love dynamic challenges & learning new technology
-- 🔭 Developing own project ideas 
 - 🔥 Fan of old strategic games Commandos & Red Alert 
-- ⚽ FIFA 2021
+
 <hr>
 
 
