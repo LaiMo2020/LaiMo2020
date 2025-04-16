@@ -1,10 +1,8 @@
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=🇵🇸+Laith+%7C+Full-Stack+Developer;Code.+Justice.+Freedom.;From+Turtle+Island+to+Gaza+❤️" 
     alt="Typing SVG" 
-    height="120"
+    height="220"
   />
 </p>
 
