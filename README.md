@@ -98,17 +98,11 @@ Open to anyone who stands with Palestine.
 
 <div align="center">
 
-<a href="https://handala.tech/hire" target="_blank">
-![HandalaTech](https://img.shields.io/badge/HandalaTech-Work_with_me-c9a84c?style=for-the-badge&logoColor=white)
-</a>
+[![HandalaTech](https://img.shields.io/badge/HandalaTech-Work_with_me-c9a84c?style=for-the-badge&logoColor=white)](https://handala.tech/hire)
 
-<a href="https://handala.tech/connector" target="_blank">
-![The Connector](https://img.shields.io/badge/The_Connector-Join_the_network-4a7c59?style=for-the-badge&logoColor=white)
-</a>
+[![The Connector](https://img.shields.io/badge/The_Connector-Join_the_network-4a7c59?style=for-the-badge&logoColor=white)](https://handala.tech/connector)
 
-<a href="mailto:info@handala.tech">
-![Email](https://img.shields.io/badge/Email-info@handala.tech-000000?style=for-the-badge&logo=gmail&logoColor=white)
-</a>
+[![Email](https://img.shields.io/badge/Email-info@handala.tech-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@handala.tech)
 
 </div>
 
