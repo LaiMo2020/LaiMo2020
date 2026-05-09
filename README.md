@@ -24,7 +24,7 @@
 - 🌱 I love dynamic challenges & learning new tech  
 - 🔥 Fan of old-school strategy games like Commandos & Red Alert  
 - 🌍 Passionate about tech for social justice  
-- 🔗 Website: [handala.tech](https://handala.tech/)
+- 🔗 Website: <a href="https://handala.tech/" target="_blank">handala.tech</a>
 
 ---
 ## 🛠️ Skills & Technologies
