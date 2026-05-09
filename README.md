@@ -79,7 +79,11 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://handala.tech/)
+<a href="https://handala.tech/" target="_blank">
+
+![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+
+</a>
 
   
 </div>
