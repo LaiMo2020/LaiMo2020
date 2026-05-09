@@ -79,8 +79,8 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.handala.space/)
-[![Tech For Palestine](https://img.shields.io/badge/Tech_For_Palestine-D83838?style=for-the-badge&logo=palestineflag&logoColor=white)](https://techforpalestine.org/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.handala.tech/)
+
   
 </div>
 
