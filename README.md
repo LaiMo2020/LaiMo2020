@@ -1,13 +1,17 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=🇵🇸+Laith+Abo+Taym+%7C+Full-Stack+Dev;HandalaTech+·+The+Handala+Connector;Code.+Justice.+Freedom." 
-    alt="Typing SVG" 
-    height="220"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🇵🇸+Laith+Abo+Taym+%7C+Full-Stack+Dev;HandalaTech+·+The+Handala+Connector;Code.+Justice.+Freedom." 
+    alt="Typing SVG"
   />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/8c4zSICCI2BTDHco2j/giphy.gif" width="480" height="320"><br>
+  <img 
+    src="https://media.giphy.com/media/8c4zSICCI2BTDHco2j/giphy.gif" 
+    width="480"
+  />
 </p>
 
 ---
